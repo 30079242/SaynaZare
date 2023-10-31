@@ -20,7 +20,7 @@ About me:
  What am I doing:
  </h2>
  <h3></h3>
-currently I am in my first year of studies in computer science undergraduate course.
+currently I am an international student in my first year of studies in computer science undergraduate course.
       <br>
  <h2>
  skilset:
@@ -51,6 +51,8 @@ currently I am in my first year of studies in computer science undergraduate cou
 
 <h3></h3>
      playing guitar 🎸
+     <br>
+     listening to music🎧
      <br>
      ♣♥ playing cardgames and sudocu ♠♦
      <br>
