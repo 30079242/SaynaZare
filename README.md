@@ -40,7 +40,9 @@ currently I am in my first year of studies in computer science undergraduate cou
      <br>
      most of my projects contain conditional statements and loops.
      <br>
-     ![Capture](https://github.com/30079242/SaynaZare/assets/147836277/880bef5a-8421-40d2-8c29-15ff680f2be7)
+     you can see my latest projects in the links provided below:
+     <br>
+![fileInput-rainfall](https://github.com/30079242/SaynaZare/assets/147836277/009dd396-3e2f-46a9-9147-bae5c3aeaa6d)
 <br>
 ![distance](https://github.com/30079242/SaynaZare/assets/147836277/60789474-5c51-4868-8045-f6e7b44b97b7)
 
