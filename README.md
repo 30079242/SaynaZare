@@ -11,7 +11,7 @@ About me:
  • I was born on Feb 7th, 2004 in Shiraz , Iran. 
 	<img src = "https://th.bing.com/th/id/R.1c22c90e7529299a79b69e4f92a05fe2?rik=vZxi9S80q8Mr4Q&pid=ImgRaw&r=0" title ="HTML" alt = "HTML" width = "50" height = "30"/>&nbsp;
 	<br>
-•	successfully completed the computer-science International Foundation year Programme in University of south Wales, Cardiff, Wales. 
+•	successfully completed the computer-science International Foundation year Programme in University of South Wales, Cardiff, Wales. 
 	<br>
 •  I loved math in school and that is why I chose to study computer science. 🎲
         <br>
@@ -21,6 +21,8 @@ About me:
  </h2>
  <h4>
 currently I am an international student in my first year of studies in computer science undergraduate course.
+	 <br>
+	 I am also working part-time during the weekend.
       <br>
 	 </h4>
  <h2>
