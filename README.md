@@ -7,7 +7,6 @@ This is Sayna Zare
 </div>
 <h2>
 About me: 
-    <br>
      <h3></h3>
 •	successfully completed the computer-science International Foundation year Programme in University of south Wales, Cardiff, Wales. 
 
