@@ -1,6 +1,6 @@
-# SaynaZare
+# SaynaZare ^_^
 <div id = "header" align="center">
-       <img src = "https://media1.tenor.com/images/08d247bf9f143cc33a18fae1cce2f10d/tenor.gif?itemid=10623533" width = "100"/>
+       <img src = "https://media1.tenor.com/images/08d247bf9f143cc33a18fae1cce2f10d/tenor.gif?itemid=10623533" width = "400" length = "1500"/>
   </div>
 <h1>
 This is Sayna Zare
